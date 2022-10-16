@@ -5,6 +5,30 @@
   text-align: center;
 }
 
+.about {
+  justify-content: center;
+  display:flex;
+  background-color:rgb(84, 75, 75);
+  align-items: center;
+
+}
+
+h3 {
+  font-size: 9vw;
+}
+
+.tune {
+  padding-top: 1vw;
+}
+
+p {
+  font-size: 2vw;
+}
+
+p.pink, h3.pink {
+  color: #F4DCE8;
+}
+
 
 /*Shrinking for mobile*/
 @media (max-width: 768px) {
@@ -18,11 +42,9 @@
     width: 75%;
   }
 
-/* text formatting */
-.about {
-  justify-content: center;
-}
-
+  p.pink {
+    font-size: 
+  }
 
 }
 
@@ -41,4 +63,34 @@ h3 {
 
 p {
   font-family: 'Karla', sans-serif;
+}
+
+.container-m {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding:20px;
+}
+
+.row {
+  justify-content: center;
+}
+
+.card {
+  background-color: #fff;
+  padding: 15px;
+  border: none;
+  height: 250px;
+  margin-top: 10px
+}
+
+.u-color {
+  color: blue
+}
+
+.user-image img {
+  border: 3px solid #00f;
+  padding: 2px
 }
