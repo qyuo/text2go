@@ -1,0 +1,85 @@
+state,city,address,code,name
+New York,Brooklyn,"Russell Street &, Nassau Ave, Brooklyn, NY 11222",-,McGorlick Park
+New York,Brooklyn,"154 N 7th St, Brooklyn, NY 11211",22222,Starbucks
+New York,Brooklyn,"238 Bedford Ave, Brooklyn, NY 11249",57911,Whole Foods
+New York,Brooklyn,"162 N 4th St, Brooklyn, NY 11211",1284,Sweetgreen
+New York,Brooklyn,"252 S 4th St, Brooklyn, NY 11211",-,La Guardia Playground
+New York,Brooklyn,"422 Fulton St, Brooklyn, NY 11201",-,Macy's
+New York,Brooklyn,"230 Nostrand Ave., Brooklyn, NY 11205",-,Home Depot
+New York,Brooklyn,"533 Nostrand Ave., Brooklyn, NY 11216",-,David's Brisket House
+New York,Brooklyn,"Brooklyn Ave &, Prospect Pl, Brooklyn, NY 11213",-,Brower Park
+New York,Brooklyn,"139 Flatbush Ave, Brooklyn, NY 11217",-,Target
+New York,Brooklyn,"686 Fulton St, Brooklyn, NY 11217",-,Greenlight Bookstore
+New York,Brooklyn,"139 Flatbush Ave, Brooklyn, NY 11217",31415,Guitar Center
+New York,Brooklyn,"139 Flatbush Ave, Brooklyn, NY 11217",-,Target
+New York,Brooklyn,"292 Ashland Pl, Brooklyn, NY 11217",-,Whole Foods 365
+New York,Brooklyn,"409 Lincoln Pl, Brooklyn, NY 11238",-,Lincoln Station
+New York,Brooklyn,"10 Grand Army Plaza, Brooklyn, NY 11238",-,Brooklyn Public Library
+New York,Brooklyn,"445 Albee Square W, Brooklyn, NY 11201",-,Dekalb Market Hall
+New York,Brooklyn,"194 Joralemon St, Brooklyn, NY 11201",-,Honeygrow
+New York,Brooklyn,"214 3rd St., Brooklyn, NY 11215",-,Whole Foods
+New York,Brooklyn,"166 7th Ave, Brooklyn, NY 11215",-,Starbucks
+New York,Brooklyn,"267 7th Ave, Brooklyn, NY 11215",-,Barnes and Noble
+New York,Brooklyn,"171 East Dr, Brooklyn, NY 11225",-,Lefrak Center
+New York,Brooklyn,"57 Empire Blvd, Brooklyn, NY 11226",-,McDonald's
+New York,Brooklyn,"289 9th St, Brooklyn, NY 11215",1230,McDonald's
+New York,Brooklyn,"40 West Dr, Brooklyn, NY 11215",-,The Picnic House
+New York,Brooklyn,"220 36th St, Brooklyn, NY 11232",-,Industry City
+New York,Brooklyn,"500 25th St, Brooklyn, NY 11232",-,Green-Wood Cemetery
+New York,Brooklyn,"812 Washington St, New York, NY 10014",-,The High Line (entrance)
+New York,New York,"100 Church St, New York, NY 10007",0043,Pret A Manger
+New York,New York,"179 Broadway, New York, NY 10007",3535,Pret A Manger
+New York,New York,"115 Delancey St, New York, NY 10002",#11504#,People's Wine
+New York,New York,"80 Delancey St, New York, NY 10002",12340,Starbucks
+New York,New York,"114 Delancey St, New York, NY 10002",13352,McDonald's
+New York,New York,"88 Essex St, New York, NY 10002","80220#
+",Essex Market
+New York,New York,"115 Delancey St, New York, NY 10002",#11504#,Peoples Wine
+New York,New York,"28 E 1st St, New York, NY 10003",1392,Blue Ribbon Fried Chicken
+New York,New York,"13-25 Astor Pl, New York, NY 10003",12345,Starbucks
+New York,New York,"771 Broadway, New York, NY 10003",1059,The Bean
+New York,New York,"39 Union Sq W, New York City, NY 10003",51553,McDonald's
+New York,New York,"393 3rd Ave, New York, NY 10016",45456,Starbucks
+New York,New York,"25 W 14th St, Manhattan, NY 10011",81009,Guitar Center
+New York,New York,"669 8th Ave, New York, NY 10036",13579#,Smashburger
+New York,New York,"1585 Broadway, New York, NY 10036",24601,Starbucks
+New York,New York,"145 West 51st St. New York, NY 10019",9876,Chop’t
+New York,New York,"1792 Broadway, New York, NY 10019",4549,Argo Tea
+New York,New York,"154 East 86th St, New York, NY 10028",7288,Shake Shack
+New York,Queens,"16702 Rockaway Beach Blvd, Queens, NY 11694",,Beach Bazaar
+New York,Queens,"34-17 48th St, Queens, NY 11101",-,Guitar Center
+New York,Queens,"37th Ave, Queens, NY 11377",-,Hart Playground
+New York,Queens,"92-59 59th Ave, Queens, NY 11373",-,JC Penney at Queens Center Mall
+New York,Queens,"16001 Jamaica Ave, Queens, NY 11432",1995,Taco Bell
+Philadelphia,Pennsylvania,"20 N American St, Philadelphia, PA 19106",-,Neigborhood House
+Philadelphia,Pennsylvania,"3604 Chestnut St, Philadelphia, PA 19104",1895,Wawa
+Philadelphia,Pennsylvania,"100 S Independence Mall W #110, Philadelphia, PA 19106",267,La Colombe
+Philadelphia,Pennsylvania,"929 South St, Philadelphia, PA 19147",452,Whole Foods
+Philadelphia,Pennsylvania,"1805 Walnut St, Philadelphia, PA 19103",-,Barnes and Noble
+Philadelphia,Pennsylvania,"1900 Market St, Philadelphia, PA 19103",12345,Wawa
+Philadelphia,Pennsylvania,"912-916 Walnut St, Philadelphia, PA 19107",2468,Wawa
+Inianapolis,Indiana,"1002 Broad Ripple Ave, Indianapolis, IN 46220",9003#,Chipotle
+Inianapolis,Indiana,"854 Broad Ripple Ave, Indianapolis, IN 46220",90210,Starbucks
+Oakland,California,"480 9th St, Oakland, CA 94607",1478#,Blue Bottle
+San Francisco,California,"580 California St Suite 150, San Francisco, CA 94104",-,Starbucks
+Los Angeles,California,"700 E Cesar E Chavez Ave, Los Angeles, CA 90012",-,Burger King
+Los Angeles,California,"2035 Hillhurst Ave, Los Angeles, CA 90027",828,
+Seattle,Washington,"500 Pine St, Seattle, WA 98101",-,Nordstrom
+Seattle,Washington,"2210 Westlake Ave, Seattle, WA 98121",Ask employees for code,Whole Foods
+Seattle,Washington,"2366 Eastlake Ave E, Seattle, WA 98102",1230,Areis Building
+Studio City,California,"12215 Ventura Blvd #101, Studio City, CA 91604",4516*,Peet's Coffee & Tea
+Cleveland,Ohio,"1965 E 6th St, Cleveland, OH 44113",1234,Shake Shack
+Austin,Texas,"2700 Guadalupe St, Austin, TX 78705",,In-N-Out Burger
+Austin,Texas,"3906 W Braker Ln, Austin, TX 78759",,Burger King
+Austin,Texas,"9523 N Lamar Blvd, Austin, TX 78753",,Burger King
+Austin,Texas,"2426 E Riverside Dr, Austin, TX 78741",,McDonald's
+Austin,Texas,"5516 N Lamar Blvd, Austin, TX 78751",,McDonald's
+Chicago,Illinois,"155 N Wabash Ave, Chicago, IL 60601",4050,Starbucks
+Portland,Oregon,"1717 SW Park Ave, Portland, OR 97201",983,Subway
+Portland,Oregon,"415 SW Montgomery St, Portland, OR 97201",789789#,Schmizza Pub & Grub
+Chicago,Illinois,"1147 S Wabash Ave, Chicago, IL 60605",4428,Trader Joe's
+Buffalo,New York,"933 Elmwood Ave, Buffalo, NY 14222",7381,Starbucks
+Los Angeles,California,"3465 W 6th St, Los Angeles, CA 90020",6431,Chapman Plaza
+Providence ,Rhode Island,"249 Thayer St, Providence, RI 02906",1414,Shake Shack
+New York,New York,"117 E 14th St, New York, NY 10003",6481,Chipotle
+New York,New York,"10 Union Square E, New York, NY 10003",1595,Panera
